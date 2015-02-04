@@ -1,0 +1,11 @@
+--- maliitactiveinputmethod.sh.orig	2012-11-29 18:22:19.492011844 +0100
++++ maliitactiveinputmethod.sh	2012-11-29 18:22:28.284944418 +0100
+@@ -1,7 +1,7 @@
+ #!/bin/sh
+ 
+ #make sure org.kde.plasma.core can be imported
+-export QML_IMPORT_PATH=/usr/lib/kde4/imports/
++export QML_IMPORT_PATH=/usr/lib64/kde4/imports/
+ 
+ #enable maliit plugin
+ export QT_IM_MODULE=Maliit
