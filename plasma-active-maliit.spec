@@ -3,7 +3,7 @@
 Name:		plasma-active-maliit
 Summary:	Virtual Keyboard for plasma-active
 Version:	0.2
-Release:	1
+Release:	2
 License:	Nokia
 Group:		Graphical desktop/KDE
 Url:		http://pa.org/
