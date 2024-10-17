@@ -6,7 +6,7 @@ Version:	0.2
 Release:	2
 License:	Nokia
 Group:		Graphical desktop/KDE
-Url:		http://pa.org/
+Url:		https://pa.org/
 Source0:	%{name}-%{version}.tar.xz
 Patch0:		export-corrct-qml-path-on-64bit.patch
 BuildRequires:	qt4-devel
