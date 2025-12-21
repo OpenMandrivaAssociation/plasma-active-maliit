@@ -9,6 +9,7 @@ Group:		Graphical desktop/KDE
 Url:		https://pa.org/
 Source0:	%{name}-%{version}.tar.xz
 Patch0:		export-corrct-qml-path-on-64bit.patch
+BuildRequires:	make
 BuildRequires:	qt4-devel
 BuildRequires:	pkgconfig(maliit-framework)
 
